@@ -118,15 +118,6 @@ CyberGuard-AI/
 
 ---
 
-## Contribution Guidelines
-
-* Maintain clear commit messages describing changes
-* Comment code thoroughly for readability
-* Follow consistent formatting and naming conventions
-* Test changes locally before pushing
-
----
-
 ## Deployment
 
 The project is deployed using Netlify. Any commits pushed to the main branch trigger automatic deployment.
