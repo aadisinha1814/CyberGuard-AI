@@ -1,26 +1,72 @@
+/*
+  GLOBAL STYLING CONFIGURATION – CYBERGUARD PLATFORM
+
+  This stylesheet defines global visual styles including:
+  - Tailwind CSS integration
+  - Typography configuration
+  - Background and color theme
+  - Scrollbar customization
+
+  Purpose:
+  Ensure consistent UI styling, accessibility,
+  and a modern cybersecurity dashboard appearance.
+*/
+
 @import "tailwindcss";
 
+/*
+  Custom Theme Variables
+
+  Defines default font families used throughout the application.
+  Serif font is used for headings and emphasis.
+  Sans-serif font is used for general UI readability.
+*/
 @theme {
   --font-serif: "Playfair Display", serif;
   --font-sans: "Inter", sans-serif;
 }
 
+
+/*
+  Base Body Styling
+
+  Tailwind utility classes applied globally:
+  - Light neutral background for readability
+  - Dark slate text for contrast
+  - Advanced typography features enabled
+    for improved character rendering.
+*/
 body {
   @apply bg-[#fcfcfc] text-slate-900;
   font-feature-settings: "cv02", "cv03", "cv04", "hbba";
 }
 
-/* Custom Scrollbar for a premium look */
+
+/*
+  Custom Scrollbar Styling
+
+  Provides a refined UI appearance consistent
+  with modern dashboard applications.
+  Improves aesthetics while maintaining usability.
+*/
+
+/* Scrollbar width */
 ::-webkit-scrollbar {
   width: 8px;
 }
+
+/* Scrollbar track background */
 ::-webkit-scrollbar-track {
   background: #f1f1f1;
 }
+
+/* Scrollbar thumb styling */
 ::-webkit-scrollbar-thumb {
   background: #cbd5e1;
   border-radius: 10px;
 }
+
+/* Hover effect for scrollbar thumb */
 ::-webkit-scrollbar-thumb:hover {
   background: #94a3b8;
 }
