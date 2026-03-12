@@ -142,7 +142,40 @@ The project documentation includes:
 Refer to submitted documentation PDF for detailed information.
 
 ---
+> Cyber Warrior Program | DeepCytes Cyber Labs (UK)
 
-## License
+## Program Attribution & Disclaimer
 
-This project is intended for academic use. Usage beyond academic scope should follow institutional guidelines.
+This repository was created as part of the **Cyber Warrior Program** conducted by  
+**DeepCytes Cyber Labs (UK)**.
+
+The Cyber Warrior Program is an educational and mentorship-driven initiative focused on:
+- AI literacy
+- Cybersecurity awareness
+- Ethical research practices
+- Responsible use of emerging technologies
+
+All work contained in this repository is produced **solely for educational and research purposes**.
+
+### Legal & Ethical Notice
+- No confidential, proprietary, or classified information was used.
+- No malicious intent, exploitation, or unlawful activity is endorsed or performed.
+- AI-generated outputs are experimental and may be incomplete or inaccurate.
+- The responsibility for interpretation and usage of this content lies with the contributor.
+
+**DeepCytes Cyber Labs (UK)** and its affiliates:
+- Do not guarantee the accuracy of AI-generated content
+- Are not liable for misuse of any information contained herein
+- Do not endorse deployment of this work in production or offensive environments
+
+### Mentorship & Attribution
+This repository is published under mentorship provided through the  
+**Cyber Warrior Program by DeepCytes Cyber Labs (UK)**.
+
+The purpose of public publication is:
+- Skill demonstration
+- Transparent learning
+- Knowledge sharing within ethical and legal boundaries
+
+© DeepCytes Cyber Labs (UK). All rights reserved.
+---
